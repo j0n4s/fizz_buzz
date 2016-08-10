@@ -1,4 +1,4 @@
-Game Of Life - Kata
+Fizz buzz - Kata
 ===================
 
 General installation instructions:
